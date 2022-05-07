@@ -14,12 +14,12 @@ https://note-taker-supremeo.herokuapp.com/
 ### Demo
 
 ## Install
-'''
+```
 npm install
 npm install shortid
-'''
+```
 
 ## Initiate
-'''
+```
 npm start
-'''
+```

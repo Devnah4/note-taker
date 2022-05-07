@@ -9,6 +9,11 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.16.4"
+    "@rh389/shortid": "^2.2.8",
+    "express": "^4.18.1",
+    "sequential-id-generator": "^2.1.2",
+    "short-unique-id": "^4.4.4",
+    "shortid": "^2.2.16",
+    "uuid-base62": "^0.1.0"
   }
 }

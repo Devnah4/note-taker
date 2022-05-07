@@ -1,7 +1,7 @@
 // Global variables
 const express = require("express");
-const PORT = process.env.PORT || 3301;
 const app = express();
+const PORT = process.env.PORT || 3001;
 const fs = require("fs");
 const path = require("path");
 
@@ -12,7 +12,7 @@ const htmlRoutes = require("./routes/htmlRoutes/htmlRoute");
 app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
 app.use(express.static("public"));
-app.use("/notes", apiRoutes);
+app.use("/api", apiRoutes);
 app.use("/", htmlRoutes);
 
 // Adds the port

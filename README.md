@@ -12,6 +12,7 @@ https://note-taker-supremeo.herokuapp.com/
 ![noteStart](https://user-images.githubusercontent.com/98830462/167233303-5112a5ba-71b3-4628-bb7a-125133140652.PNG)
 
 ### Demo
+https://user-images.githubusercontent.com/98830462/167233486-8c307ea6-c6c7-4a38-bc5f-61349be11fd3.mp4
 
 ## Install
 ```
@@ -23,3 +24,6 @@ npm install shortid
 ```
 npm start
 ```
+## Contributions
+CodeCamp
+![shortid](https://www.npmjs.com/package/shortid)

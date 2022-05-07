@@ -25,5 +25,5 @@ npm install shortid
 npm start
 ```
 ## Contributions
-CodeCamp
-![shortid](https://www.npmjs.com/package/shortid)
+- [CodeCamp](https://github.com/coding-boot-camp)
+- [shortid](https://www.npmjs.com/package/shortid)
